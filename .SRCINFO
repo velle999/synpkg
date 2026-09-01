@@ -1,7 +1,7 @@
 pkgbase = synpkg
 	pkgdesc = SynapseOS package manager: repositories, AUR, Flathub, BlackArch and SynapseOS itself
 	pkgver = 0.1.0
-	pkgrel = 44
+	pkgrel = 45
 	url = https://github.com/velle999/SYNAPSE
 	arch = x86_64
 	license = GPL-2.0-or-later
@@ -20,7 +20,7 @@ pkgbase = synpkg
 	optdepends = base-devel: makepkg, for AUR builds
 	optdepends = syntty>=0.1.0-27: terminal the GUI opens for a full system upgrade
 	optdepends = foot: the same, on an install that predates syntty
-	source = synpkg-0.1.0.tar.gz::https://github.com/velle999/synpkg/releases/download/0.1.0-44/synpkg-0.1.0.tar.gz
+	source = synpkg-0.1.0.tar.gz::https://github.com/velle999/synpkg/releases/download/0.1.0-45/synpkg-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = synpkg
